@@ -34,10 +34,10 @@ export default function Home(){
 			<section className="intro-section">
 				<div className="section-inner intro-grid">
 					<div className="intro-copy">
-						<p className="eyebrow">Bem-vinda ao Mais Bonita</p>
+						<p className="eyebrow">Bem-vinda ao Mais Beleza</p>
 						<h2>O espaço perfeito para cuidar de você com atenção e luxo acessível.</h2>
 						<p>
-							No MAIS BONITA você encontra um ambiente acolhedor, atendimento personalizado e uma seleção de serviços de beleza pensados para destacar sua melhor versão.
+							No Mais Beleza você encontra um ambiente acolhedor, atendimento personalizado e uma seleção de serviços de beleza pensados para destacar sua melhor versão.
 						</p>
 						<div className="intro-actions">
 							<button className="btn-primary">Agende aqui</button>
@@ -45,7 +45,7 @@ export default function Home(){
 						</div>
 					</div>
 					<div className="intro-image">
-						<img src={heroImage} alt="Salão Mais Bonita" />
+						<img src={heroImage} alt="Salão Mais Beleza" />
 					</div>
 				</div>
 			</section>
@@ -74,7 +74,7 @@ export default function Home(){
 				<div className="section-inner banner-inner">
 					<div>
 						<p className="eyebrow">Agende agora o seu serviço!</p>
-						<h2>Escolha o melhor horário para ficar ainda MAIS BONITA.</h2>
+						<h2>Escolha o melhor horário para ficar ainda Mais Beleza.</h2>
 						<p className="banner-copy">Atendimento personalizado, técnicas profissionais e um ambiente pensado para você relaxar enquanto cuida da sua imagem.</p>
 					</div>
 					<button className="btn-primary">Agende Aqui</button>
@@ -99,13 +99,13 @@ export default function Home(){
 			<section className="media-section">
 				<div className="section-inner media-grid">
 					<div className="media-copy">
-						<p className="eyebrow">Mais Bonita na Mídia</p>
+						<p className="eyebrow">Mais Beleza na Mídia</p>
 						<h2>Confira tudo que já saiu sobre o MB na mídia</h2>
 						<p>Nosso trabalho com estética de alto padrão já foi destaque em perfis e publicações voltadas para beleza, lifestyle e bem-estar.</p>
 						<button className="btn-secondary">Clique aqui</button>
 					</div>
 					<div className="media-card">
-						<img src={heroImage} alt="Mais Bonita na mídia" />
+						<img src={heroImage} alt="Mais Beleza na mídia" />
 					</div>
 				</div>
 			</section>
@@ -127,7 +127,7 @@ export default function Home(){
 			<footer className="footer-section">
 				<div className="section-inner footer-grid">
 					<div className="footer-brand">
-						<p className="eyebrow">Mais Bonita</p>
+						<p className="eyebrow">Mais Beleza</p>
 						<h3>Centro de beleza e estética.</h3>
 						<p>Valorizamos sua imagem pessoal com atendimento exclusivo e espaço elegante.</p>
 					</div>

@@ -5,7 +5,7 @@ export default function Header({page, setPage}){
 		<header className="header">
 			<div className="header-inner">
 				<div className="brand" onClick={()=>setPage('home')}>
-					Mais Bonita
+					Mais Beleza
 				</div>
 				<nav className="nav">
 					<button onClick={()=>setPage('home')} className={`nav-button ${page==='home' ? 'active' : ''}`}>
