@@ -1,0 +1,20 @@
+.service-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+  display: grid;
+  gap: 0.65rem;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.service-list li {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.service-arrow {
+  color: var(--primary);
+  font-weight: 700;
+}

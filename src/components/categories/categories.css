@@ -1,0 +1,21 @@
+.cta-panel {
+  margin-top: 4rem;
+  padding: 3rem 2rem;
+  text-align: center;
+  border-radius: 1.5rem;
+  border: 1px solid rgba(255,255,255,0.08);
+  background: rgba(16, 18, 20, 0.9);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+}
+
+.cta-title {
+  margin-bottom: 0.8rem;
+  font-size: 2rem;
+  color: #f7f2e8;
+}
+
+.cta-copy {
+  max-width: 720px;
+  margin: 0 auto 1.4rem;
+  color: var(--text-muted);
+}
